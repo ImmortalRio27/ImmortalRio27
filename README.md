@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImmortalRio27
-- 👀 I’m interested in web,game develop
+- 👀 I’m interested in web, game development
 - 🌱 I’m currently learning Js, Python, Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
